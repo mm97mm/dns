@@ -23,7 +23,6 @@ import (
 	"github.com/qdm12/golibs/logging"
 )
 
-//nolint:gochecknoglobals
 var (
 	version   string
 	buildDate string
